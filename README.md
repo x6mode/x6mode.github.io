@@ -1,4 +1,4 @@
-<h1 style="text-align: center; width: full"><b>👋 Привет, я @x6modee</b></h1>
+<h2 style="text-align: center; width: full; border-bottom: none"><b>👋 Привет, я @x6modee</b></h2>
 <p style="text-align: center"><i>Fullstack web-разработчик из России</i></p>
 <hr />
 <p>
@@ -6,7 +6,7 @@
   решая сложные задачи. Люблю поговорить. 😊
 </p>
 <hr />
-<p><b>⚡️ Мой стек и технологии:</b></p>
+<h2 style="border-bottom: none"><b>⚡️ Мой стек и технологии:</b></h2>
 <p align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
@@ -82,7 +82,7 @@
   />&nbsp;
 </p>
 <hr />
-<b>📊 Моя статистика:</b>
+<h2 style="border-bottom: none"><b>📊 Моя статистика:</b></h2>
 <br />
 
 <br />
