@@ -11,6 +11,8 @@
   решая сложные задачи. Люблю поговорить. 😊
 </p>
 
+<hr />
+
 <h2 style="border-bottom: none"><b>⚡️ Мой стек и технологии:</b></h2>
 <p align="left">
   <img
@@ -88,10 +90,7 @@
 </p>
 
 <h2 style="border-bottom: none"><b>📊 Моя статистика:</b></h2>
-<br />
-
-<br />
-<p style="text-align: center">
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=x6mode&radius=16&theme=react&area=true&order=5"
     alt="activity-graph"
