@@ -1,14 +1,11 @@
-<center><b>👋 Привет, я @x6modee</b></center>
-<center><i>Fullstack web-разработчик из России</i></center>
+<p style="text-align: center"><b>👋 Привет, я @x6modee</b></p>
+<p style="text-align: center"><i>Fullstack web-разработчик из России</i></p>
 <hr />
-<br />
-<blockquote>
+<p>
   Разработчик, на TypeScript, люблю писать крупные сайты, на современных технологиях, разрабатывая сложные архитектуры и
   решая сложные задачи. Люблю поговорить. 😊
-</blockquote>
-<br />
+</p>
 <hr />
-<br />
 <p><b>⚡️ Мой стек и технологии:</b></p>
 <p align="left">
   <img
@@ -85,15 +82,14 @@
   />&nbsp;
 </p>
 <hr />
-<br />
 <b>📊 Моя статистика:</b>
 <br />
 
 <br />
-<center>
+<p style="text-align: center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=x6mode&radius=16&theme=react&area=true&order=5"
     alt="activity-graph"
     height="300"
   />
-</center>
+</p>
