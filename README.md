@@ -12,7 +12,7 @@
 </p>
 
 <hr />
-
+<br />
 <h2 style="border-bottom: none"><b>⚡️ Мой стек и технологии:</b></h2>
 <p align="left">
   <img
@@ -88,7 +88,7 @@
     height="35"
   />&nbsp;
 </p>
-
+<br />
 <h2 style="border-bottom: none"><b>📊 Моя статистика:</b></h2>
 <p align="center">
   <img
