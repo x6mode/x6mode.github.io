@@ -1,4 +1,4 @@
-<p style="text-align: center"><b>👋 Привет, я @x6modee</b></p>
+<h1 style="text-align: center; width: full"><b>👋 Привет, я @x6modee</b></h1>
 <p style="text-align: center"><i>Fullstack web-разработчик из России</i></p>
 <hr />
 <p>
